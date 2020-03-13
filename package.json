@@ -1,0 +1,19 @@
+{
+  "name": "cucumberjs-slack-formatter",
+  "version": "1.0.0",
+  "description": "send your pretty test results directly to slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RailsBank/cucumberjs-slack-formatter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RailsBank/cucumberjs-slack-formatter/issues"
+  },
+  "homepage": "https://github.com/RailsBank/cucumberjs-slack-formatter#readme"
+}
