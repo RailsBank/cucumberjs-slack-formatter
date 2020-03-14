@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/RailsBank/cucumberjs-slack-formatter/issues"
   },
-  "homepage": "https://github.com/RailsBank/cucumberjs-slack-formatter#readme"
+  "homepage": "https://github.com/RailsBank/cucumberjs-slack-formatter#readme",
+  "peerDependencies": {
+    "cucumber": ">=6.0.0"
+  },
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  }
 }
